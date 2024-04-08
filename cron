@@ -1,1 +1,1 @@
-* * * * * /home/cronjob.sh http://10.245.60.35:80/kanban/snapshot > /var/log/cron
+* * * * * /home/cronjob.sh http://10.245.141.83:80/kanban/snapshot > /var/log/cron
